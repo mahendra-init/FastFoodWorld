@@ -1,0 +1,4 @@
+2023-10-08 15:17:46,313 | webdemo-291eaf61-3223-87ec-ff4b-36c4f301739e | new.order
+2023-10-08 15:18:06,422 | webdemo-291eaf61-3223-87ec-ff4b-36c4f301739e | order.add - context: ongoing-order
+2023-10-08 15:18:15,466 | webdemo-291eaf61-3223-87ec-ff4b-36c4f301739e | order.remove - context: ongoing-order
+2023-10-08 15:18:18,555 | webdemo-291eaf61-3223-87ec-ff4b-36c4f301739e | order.complete - context: ongoing-order
